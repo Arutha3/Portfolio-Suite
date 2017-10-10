@@ -9,3 +9,22 @@ body{
 ul{
    font-style: italic;
 }
+a{
+    font-family: monospace;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #00c;
+    font-family: cursive;
+    background-color: green;
+    text-decoration: underline;
+}
+tr {
+    font-style: italic;
+
+}
+table{
+    background-color: grey;
+}
