@@ -2,12 +2,16 @@ body{
     background: url(http://wallpoper.com/images/00/26/17/44/douglas-adams_00261744.jpg);
     background-repeat: no-repeat;
     /*background-size: ;*/
-    color: white;
-    
+        
 
 }
 ul{
    font-style: italic;
+
+}
+li{
+    text-decoration-color: white;
+
 }
 a{
     font-family: monospace;
@@ -27,4 +31,5 @@ tr {
 }
 table{
     background-color: grey;
+    text-decoration-color: black;
 }
